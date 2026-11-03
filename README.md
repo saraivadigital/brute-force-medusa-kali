@@ -45,6 +45,8 @@ A wordlist simula senhas fracas e comuns, incluindo padrões brasileiros como `S
 medusa -h 192.168.26.10 -u lab -P senha.txt -M ssh -n 22 -t 2 -f
 ```
 
+![Execução do Medusa](Medusa.png)
+
 ### Explicação dos parâmetros:
 
 | Parâmetro | Descrição |
